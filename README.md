@@ -8,7 +8,9 @@ Le bot giveaway qu'il vous faut !
 
 - [@Gabizoc](https://www.github.com/gabizoc)
 
+## Hosting
 
+Soit hébérger votre bot vous même, soit utilisé le bot publique : [Invite moi](https://discord.com/api/oauth2/authorize?client_id=1244254720957091911&permissions=274878318657&scope=applications.commands%20bot)
 ## Installation
 
 Installation des modules :
