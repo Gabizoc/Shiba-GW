@@ -1,5 +1,5 @@
 
-# Shiba GW
+# 🎉 Shiba GW
 
 Le bot giveaway qu'il vous faut !
 
