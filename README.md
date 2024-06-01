@@ -18,7 +18,7 @@ Installation des modules :
 ```
 Configurez le fichier [config.json](https://github.com/Gabizoc/Shiba-GW/blob/main/config.json)
 
-Puis démaré le bot :
+Puis démarez le bot :
 ```bash
   node index.js
 ```
