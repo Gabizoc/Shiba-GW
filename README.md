@@ -8,12 +8,6 @@ Le bot giveaway qu'il vous faut !
 
 - [@Gabizoc](https://www.github.com/gabizoc)
 
-## Couleur Principal
-
-| Couleur             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Orange | ![#f7ac3f](https://via.placeholder.com/10/0a192f?text=+) #f7ac3f |
-
 
 ## Installation
 
